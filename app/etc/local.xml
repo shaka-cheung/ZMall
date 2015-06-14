@@ -40,10 +40,10 @@
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[localhost]]></host>
-                    <username><![CDATA[root]]></username>
-                    <password><![CDATA[root]]></password>
-                    <dbname><![CDATA[zmall]]></dbname>
+                    <host><![CDATA[mysql15.1blu.de]]></host>
+                    <username><![CDATA[s230029_2268138]]></username>
+                    <password><![CDATA[katherine]]></password>
+                    <dbname><![CDATA[db230029x2268138]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
